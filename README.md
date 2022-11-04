@@ -1,4 +1,3 @@
-# video-meeting-maven-repository
 ## 🍎 Jitsi-Meet 기반 화상회의 SDK 화 작업 테스트
 - ✔️ Jitsi-Meet Repository 👉 [Jitsi-Meet](https://github.com/jitsi/jitsi-meet) 
 ### 🍀 Jitsi-Meet Android SDK 화 작업 순서
