@@ -3,9 +3,9 @@
 ### 🍀 Jitsi-Meet Android SDK 화 작업 순서
 - 1️⃣ [jitsi-Meet git](https://github.com/jitsi/jitsi-meet) 👉 Repository Clone
 - 2️⃣ npm --legacy-peer-deps install
-- 3️⃣ postinstall npm script 실행
+- 3️⃣ `postinstall` npm script 실행
   > - npm patch-package --error-on-fail && jetify
-- 4️⃣ android local.properties 설정하기 (ANDROID_SDK_ROOT 설정)
+- 4️⃣ android `local.properties` 설정하기 (`ANDROID_SDK_ROOT` 설정)
 - 5️⃣ cd android
 - 6️⃣ cd scripts
 - 7️⃣ sh release-sdk.sh
