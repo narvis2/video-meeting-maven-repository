@@ -25,3 +25,8 @@
     >> - 99.0.0 👉 1.0.0
     > - `sdkVersion`
     >> - 99.0.0 👉 1.0.0
+
+## ❗️Jitsi-Meet SDK 6 버전 이상 오류❗️
+- `BaseReactView`, `JitsiMeetViewListener` 가 `SDK 6` 버전 이상부터 없어서 `not found exception` 발생
+- **_✅ 참고 ✅_**
+  > - [Jitsi-Meet SDK Version 관리 Github](https://github.com/jitsi/jitsi-meet-release-notes/blob/master/CHANGELOG-MOBILE-SDKS.md)
